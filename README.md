@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ChakyrIT@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j77wKFsKU1zHMr_vUMnFrRrHJDhgNPl0/view?usp=sharing](https://drive.google.com/file/d/1j77wKFsKU1zHMr_vUMnFrRrHJDhgNPl0/view?usp=sharing)
+- 📄 Know about my experiences [Link to Google-Storage](https://drive.google.com/file/d/1Wy52nkUBtANdM6awynR0Y_ugjLL3G-jH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
