@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denis Chakyr</h1>
 <h3 align="center">A passionate IOS-developer</h3>
 
-- 🔭 I’m currently working on [Honkai Star Rail Guides App](https://github.com/DanteIT94/HonkaiStarRailGuides)
+- 🔭 I’m currently working on [Honkai Star Rail Guides App](https://github.com/DanteIT94/HonkaiStarRailGuides), [Wuthering Waves Guides](https://github.com/DanteIT94/WutheringWavesGuides)
 
 - 🌱 I’m currently learning **Firebase, Combine, SwiftUI**
 
